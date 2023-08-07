@@ -17,7 +17,4 @@
 
 
 
-<img style="width:100%;" src="https://github-readme-stats.vercel.app/api?username=TheNocktuz&&show_icons=true&line_height=27&v=5&bg_color=303034&title_color=25A58E&text_color=EAEAE9&icon_color=197B82&include_all_commits=true&count_private=true&hide_title=true" alt="Ashwani's GitHub Stats" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheNocktuz&show_icons=true&locale=en&layout=compact" alt="TheNocktuz Languages Used" />
-<img align="rigth" src="https://github-readme-stats.vercel.app/api?username=TheNocktuz&show_icons=true&locale=en&theme=radical" alt="TheNocktuz GitHub Stats " />
